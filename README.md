@@ -18,7 +18,7 @@
 - **PHP** (Backend)
 - **MySQL** (Database)
 - **Apache** (Web Server)
-- **HTML/CSS** (Frontend)
+- **HTML/CSS/JS** (Frontend)
 - **MySQL Workbench** (برای مدیریت پایگاه داده)
 
 
