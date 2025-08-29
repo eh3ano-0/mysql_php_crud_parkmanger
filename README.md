@@ -71,8 +71,9 @@ PROJECT/
 
 
 ## 📊 نمودار ER
+<div align="center">
 ![نمودار ER](ER.png)
-
+</div>
 
 ---
 
